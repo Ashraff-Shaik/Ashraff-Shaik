@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashraff-Shaik
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently working as a inter on Mern Stack
+- 🌱 I’m currently working as a Software Developer Intern on Mern Stack
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me smdashraff1296@gmail.com
 
