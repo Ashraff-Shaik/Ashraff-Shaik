@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashraff-Shaik
-- 👀I'm a Jr Software Developer working on Full Stack Java 
+- 👀I'm a Project Engineer working at Wipro Technologies
+- Worked as a Relationship Manager at Turito
 - 🌱 Worked as a Software Developer Intern on Mern Stack
-- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me smdashraff1296@gmail.com
 
 <!---
